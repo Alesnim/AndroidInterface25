@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cakes">
+        <item quantity="zero">нет тортов</item>
+        <item quantity="one">торт</item>
+        <item quantity="two">торта</item>
+        <item quantity="many">тортов</item>
+    </plurals>
+
+
+</resources>
